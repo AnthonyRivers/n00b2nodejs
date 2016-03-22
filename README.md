@@ -10,6 +10,6 @@ I will store the following in this repositories:
 
 
 ---
-**Antonio Rios**\n
+**Antonio Rios**<br />
 **Undergraduate, Applied Computer Science**\n
 **Northern Arizona University**\n
