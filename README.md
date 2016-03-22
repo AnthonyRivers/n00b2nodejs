@@ -9,8 +9,7 @@ I will store the following in this repositories:
 * Links to the resources that I'm using to learn nodejs.
 
 
-
-
-**Antonio Rios**
-**Undergraduate, Applied Computer Science**
-**Northern Arizona University**
+---
+**Antonio Rios**\n
+**Undergraduate, Applied Computer Science**\n
+**Northern Arizona University**\n
