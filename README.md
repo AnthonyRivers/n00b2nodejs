@@ -1,5 +1,5 @@
 # n00b2nodejs
-Learning nodejs - This repository is used to keep track of my learning and progress as I learn to use nodesjs on my spare time for fun.
+Learning nodejs - This repository is used to keep track of my learning and progress as I learn to use nodejs on my spare time for fun.
 
 I will store the following in this repositories:
 ================================================
