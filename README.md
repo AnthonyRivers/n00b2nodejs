@@ -11,5 +11,3 @@ I will store the following in this repositories:
 
 ---
 **Antonio Rios**<br />
-**Undergraduate, Applied Computer Science**<br />
-**Northern Arizona University**<br />
